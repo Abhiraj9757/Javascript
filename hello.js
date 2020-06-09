@@ -1,1 +1,1 @@
-console.log('new javascript file');
+console.log('new javascript file')
